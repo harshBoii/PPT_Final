@@ -1,0 +1,6 @@
+[submodule "PPT_Backend"]
+	path = PPT_Backend
+	url = https://github.com/harshBoii/PPT_Backend
+[submodule "PPT_Frontend"]
+	path = PPT_Frontend
+	url = https://github.com/harshBoii/PPT_Front
